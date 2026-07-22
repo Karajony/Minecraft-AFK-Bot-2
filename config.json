@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "DVC_Craft.aternos.me:20867",
+  "serverPort": 20867,
+  "botUsername": "Aδμιν",
   "botChunk": 1
 }
